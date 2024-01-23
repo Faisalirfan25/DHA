@@ -1,8 +1,8 @@
-SEMESTER 1 
-SEMESTER 2
-SEMESTER 3 
-SEMESTER 4 
-SEMESTER 5 
-SEMESTER 6 
-SEMESTER 7
-SEMESTER 8
+semester 1
+semester 2
+semester 3
+semester 4
+semester 5
+semester 6
+semester 7
+semester 8
